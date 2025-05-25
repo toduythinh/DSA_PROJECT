@@ -23,13 +23,12 @@ Blue: Miss (empty water)
 Ships are revealed when completely destroyed.
 
 The game ends when one player loses all ships.
+
 ![Alt text](github_img/game.png)
 
 
 🕹️ Controls
 
-
-![Alt text](github_img/control.png)
 General Controls
 1 - Quit game
 
@@ -44,6 +43,8 @@ Mouse Click - Place ship (if valid)
 
 Attack Phase
 Mouse Click - Select a cell to attack (if not already attacked)
+
+![Alt text](github_img/control.png)
 
 🧠 AI Difficulty Modes
 On game launch, a dialog prompts the user to select AI difficulty:
